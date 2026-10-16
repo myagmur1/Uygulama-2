@@ -8,7 +8,6 @@ using System.Threading.Tasks;
 namespace Uygulama_2
 {
    
-    }
     internal class Program
     {
         static bool NumaraVarMi(List<string> liste, string aranan)
