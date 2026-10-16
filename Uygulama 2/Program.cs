@@ -37,4 +37,4 @@ namespace Uygulama_2
             Console.WriteLine(NumaraVarMi(bosListe, "1001")); // false
         }
     }
-
+}
